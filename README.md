@@ -9,3 +9,6 @@
   - Animations
 
 This project is hosted on [Netlify](https://rockpaperscissor-kaushalsharma.netlify.app) for you to give it a try. Let me know what you think!
+
+### Demonstration
+<img src="rockpaperscissor.gif" heigh="480" width="1080">
